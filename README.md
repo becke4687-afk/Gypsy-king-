@@ -1,4 +1,4 @@
-# Gypsy-cd ~/carolina-kingdom
+# cd ~/carolina-kingdom
 
 # --- llms.txt - standard for AI scrapers ---
 cat > llms.txt <<'L'
